@@ -2,4 +2,4 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-mini"
-baseUrl = "https://pascalprecht.github.io/1729-hugo-site"
+baseUrl = "/1729-hugo-site/"
