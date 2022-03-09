@@ -6,5 +6,4 @@ draft: false
 
 hello
 
-- [This can be a link to an article](https://1729.com)
-- [Here's is another link](https://google.com)
+- [Why Western Institutions are failing us...](https://mattharder.medium.com/why-western-institutions-are-failing-and-what-to-do-about-it-57657780292f)
